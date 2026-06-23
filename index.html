@@ -310,13 +310,13 @@
   <header><h1>ADC Media</h1></header>
   <section class="search-section"><div class="search-wrapper"><input type="text" id="searchInput" placeholder="Search for apps..." oninput="filterApps()"></div></section>
   <main><div id="appContainer"></div></main>
-  <footer><p>&copy; 2026 App Hub. Powered by Platinum Engine.</p></footer>
+  <footer><p>&copy; 2026 ADC Media. Powered by Platinum Engine.</p></footer>
   <script>
     let allApps = [];
     const formatUrl = (url, isIOS) => url && isIOS ? "itms-services://?action=download-manifest&url=" + encodeURIComponent(url) : url;
     const renderApps = (apps) => {
       const container = document.getElementById("appContainer"); container.innerHTML = "";
-      if (apps.length === 0) { container.innerHTML = '<div style="grid-column: 1/-1; text-align: center; padding: 100px; color: var(--text-muted); font-weight: 700;">🍃 No apps found matching your search.</div>'; return; }
+      if (apps.length === 0) { container.innerHTML = '<div style="grid-column: 1/-1; text-align: center; padding: 100px; color: var(--text-muted); font-weight: 700;">🎬 No apps found matching your search.</div>'; return; }
       apps.forEach((app, index) => {
         const isIOS = (app.platform || "").toLowerCase().includes("ios");
         const isAndroid = !app.platform || app.platform.toLowerCase().includes("android");
