@@ -18,6 +18,23 @@
       "store": "",
       "category": "Browser",
       "category_source": "rule"
+    },
+    {
+      "id": "turbovid",
+      "name": "Turbovid",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/turbovid_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/turbovid_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.4+26062301"
+      },
+      "store": "https://play.google.com/store/apps/details?id=com.tmt.video.downloader",
+      "category": "Downloader",
+      "category_source": "rule"
     }
   ]
 }
