@@ -41,6 +41,23 @@
       "category_source": "rule"
     },
     {
+      "id": "kairo_browser",
+      "name": "Kairo Browser",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/kairo_browser_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/kairo_browser_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "Browser",
+      "category_source": "rule"
+    },
+    {
       "id": "turbovid",
       "name": "Turbovid",
       "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/turbovid_icon.png",
