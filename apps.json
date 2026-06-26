@@ -1,6 +1,23 @@
 {
   "apps": [
     {
+      "id": "callvibe",
+      "name": "Callvibe",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/callvibe_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/callvibe_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "Communication",
+      "category_source": "store"
+    },
+    {
       "id": "jade_browser",
       "name": "Jade Browser",
       "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/jade_browser_icon.png",
