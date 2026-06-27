@@ -16,8 +16,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": "Communication",
-      "category_source": "store"
+      "category": null,
+      "category_source": null
     },
     {
       "id": "jade_browser",
@@ -37,8 +37,8 @@
         "aab": "1.0.0+26062501"
       },
       "store": "",
-      "category": "Browser",
-      "category_source": "rule"
+      "category": null,
+      "category_source": null
     },
     {
       "id": "kairo_browser",
@@ -56,8 +56,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": "Browser",
-      "category_source": "rule"
+      "category": null,
+      "category_source": null
     },
     {
       "id": "snap_saver",
@@ -75,8 +75,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": "Tools",
-      "category_source": "store"
+      "category": null,
+      "category_source": null
     },
     {
       "id": "turbovid",
@@ -96,8 +96,8 @@
         "aab": "1.0.5+26062501"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.video.downloader",
-      "category": "Downloader",
-      "category_source": "rule"
+      "category": null,
+      "category_source": null
     }
   ]
 }
