@@ -22,7 +22,7 @@
     {
       "id": "jade_browser",
       "name": "Jade Browser",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/jade_browser_icon.png",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/jade_browser_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -33,7 +33,7 @@
       },
       "versions": {
         "dev": "1.0.0+26062501",
-        "prod": "1.0.0+1",
+        "prod": "1.0.0+26062501",
         "aab": "1.0.0+26062501"
       },
       "store": "",
