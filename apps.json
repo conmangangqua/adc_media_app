@@ -1,6 +1,23 @@
 {
   "apps": [
     {
+      "id": "aiko_chat",
+      "name": "Aiko Chat",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/aiko_chat_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/aiko_chat_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null
+    },
+    {
       "id": "callvibe",
       "name": "Callvibe",
       "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/callvibe_icon.png",
@@ -48,7 +65,6 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/kairo_browser_dev.apk",
         "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/kairo_browser_prod.apk"
       },
       "versions": {
