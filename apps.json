@@ -79,6 +79,23 @@
       "category_source": null
     },
     {
+      "id": "reverie_drama",
+      "name": "Reverie Drama",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/reverie_drama_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/reverie_drama_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null
+    },
+    {
       "id": "snap_saver",
       "name": "Snap Saver",
       "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/snap_saver_icon.png",
