@@ -131,7 +131,7 @@
       "versions": {
         "dev": "1.0.5+26062501",
         "prod": "1.0.5+26062501",
-        "aab": "1.0.5+26062501"
+        "aab": "1.0.6+26070101"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.video.downloader",
       "category": null,
