@@ -62,7 +62,7 @@
     {
       "id": "kairo_browser",
       "name": "Kairo Browser",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/kairo_browser_icon.png",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/kairo_browser_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
