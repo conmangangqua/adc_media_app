@@ -108,7 +108,7 @@
     {
       "id": "snap_saver",
       "name": "Snap Saver",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/snap_saver_icon.png",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/snap_saver_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -118,7 +118,7 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/snap_saver.aab"
       },
       "versions": {
-        "dev": "1.0.0+1",
+        "dev": "1.0.0+26070501",
         "prod": "1.0.0+1",
         "aab": "1.0.0+26070501"
       },
