@@ -22,7 +22,7 @@
     {
       "id": "callvibe",
       "name": "Callvibe",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/callvibe_icon.png",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/callvibe_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -32,7 +32,7 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/callvibe.aab"
       },
       "versions": {
-        "dev": "1.0.0+1",
+        "dev": "1.0.0+26070501",
         "prod": "1.0.0+1",
         "aab": "1.0.0+26070501"
       },
