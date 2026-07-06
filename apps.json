@@ -18,8 +18,8 @@
         "aab": "1.0.0+26070501"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "AI Chat",
+      "category_source": "rule"
     },
     {
       "id": "callvibe",
@@ -39,8 +39,8 @@
         "aab": "1.0.0+26070501"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "Communication",
+      "category_source": "store"
     },
     {
       "id": "jade_browser",
@@ -60,8 +60,8 @@
         "aab": "1.0.0+26062501"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.jade.browser",
-      "category": null,
-      "category_source": null
+      "category": "Browser",
+      "category_source": "rule"
     },
     {
       "id": "kairo_browser",
@@ -81,8 +81,8 @@
         "aab": "1.0.0+26070501"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "Browser",
+      "category_source": "rule"
     },
     {
       "id": "reverie_drama",
@@ -102,8 +102,8 @@
         "aab": "1.0.0+26070501"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "Streaming",
+      "category_source": "rule"
     },
     {
       "id": "snap_saver",
@@ -123,8 +123,8 @@
         "aab": "1.0.0+26070501"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "Tools",
+      "category_source": "store"
     },
     {
       "id": "turbovid",
@@ -144,8 +144,8 @@
         "aab": "1.0.7+26070401"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.video.downloader",
-      "category": null,
-      "category_source": null
+      "category": "Downloader",
+      "category_source": "rule"
     }
   ]
 }
