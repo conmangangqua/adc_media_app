@@ -108,7 +108,7 @@
     {
       "id": "snap_saver",
       "name": "Snap Saver",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/snap_saver_icon.png",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/snap_saver_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
