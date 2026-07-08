@@ -57,7 +57,7 @@
       "versions": {
         "dev": "1.0.0+26062501",
         "prod": "1.0.0+26062501",
-        "aab": "1.0.0+26062501"
+        "aab": "1.0.0+26070901"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.jade.browser",
       "category": "Browser",
