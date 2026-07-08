@@ -45,7 +45,7 @@
     {
       "id": "jade_browser",
       "name": "Jade Browser",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/jade_browser_icon.png",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/jade_browser_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -56,7 +56,7 @@
       },
       "versions": {
         "dev": "1.0.1+26070902",
-        "prod": "1.0.0+26070901",
+        "prod": "1.0.1+26070902",
         "aab": "1.0.1+26070902"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.jade.browser",
