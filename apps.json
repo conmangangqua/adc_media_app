@@ -44,7 +44,7 @@
     },
     {
       "id": "jade_browser",
-      "name": "Jade Browser",
+      "name": "Jade: Private Ad Block Browser",
       "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/jade_browser_icon.png",
       "platform": "Android",
       "description": "",
@@ -128,7 +128,7 @@
     },
     {
       "id": "turbovid",
-      "name": "Turbovid",
+      "name": "TurboVid - Video Downloader",
       "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/turbovid_icon.png",
       "platform": "Android",
       "description": "",
