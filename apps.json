@@ -3,7 +3,7 @@
     {
       "id": "aiko_chat",
       "name": "Aiko Chat",
-      "icon": "icons/aiko_chat.webp",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/aiko_chat_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -24,7 +24,7 @@
     {
       "id": "callvibe",
       "name": "Callvibe",
-      "icon": "icons/callvibe.webp",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/callvibe_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -45,7 +45,7 @@
     {
       "id": "jade_browser",
       "name": "Jade: Private Ad Block Browser",
-      "icon": "icons/jade_browser.webp",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/jade_browser_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -66,7 +66,7 @@
     {
       "id": "kairo_browser",
       "name": "Kairo Browser",
-      "icon": "icons/kairo_browser.webp",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/kairo_browser_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -87,7 +87,7 @@
     {
       "id": "reverie_drama",
       "name": "Reverie Drama",
-      "icon": "icons/reverie_drama.webp",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/reverie_drama_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -108,7 +108,7 @@
     {
       "id": "snap_saver",
       "name": "Snap Saver",
-      "icon": "icons/snap_saver.webp",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/snap_saver_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -129,7 +129,7 @@
     {
       "id": "turbovid",
       "name": "TurboVid - Video Downloader",
-      "icon": "icons/turbovid.webp",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/turbovid_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
