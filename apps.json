@@ -17,7 +17,7 @@
         "prod": "1.0.0+26071201",
         "aab": "1.0.0+26070501"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.aiko.chat",
       "category": "AI Chat",
       "category_source": "rule"
     },
@@ -122,7 +122,7 @@
         "prod": "1.0.0+26070801",
         "aab": "1.0.0+26070501"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.snapsaver",
       "category": "Tools",
       "category_source": "store"
     },
