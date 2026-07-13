@@ -45,7 +45,7 @@
     {
       "id": "jade_browser",
       "name": "Jade: Private Ad Block Browser",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/jade_browser_icon.png",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/jade_browser_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
