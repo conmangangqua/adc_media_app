@@ -101,7 +101,7 @@
         "prod": "1.0.0+26071702",
         "aab": "1.0.0+26071702"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.reverie.drama",
       "category": "Streaming",
       "category_source": "rule"
     },
