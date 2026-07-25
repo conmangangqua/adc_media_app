@@ -127,6 +127,23 @@
       "category_source": "store"
     },
     {
+      "id": "streamly_play",
+      "name": "Streamly Play",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/streamly_play_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/streamly_play_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+26070502"
+      },
+      "store": "",
+      "category": "iptv",
+      "category_source": "gitlab"
+    },
+    {
       "id": "turbovid",
       "name": "TurboVid - Video Downloader",
       "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/turbovid_icon.png",
