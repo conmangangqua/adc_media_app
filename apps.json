@@ -3,7 +3,7 @@
     {
       "id": "aiko_chat",
       "name": "Aiko Chat",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/aiko_chat_icon.png",
+      "icon": "icons/aiko_chat.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -24,7 +24,7 @@
     {
       "id": "callvibe",
       "name": "Callvibe",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/callvibe_icon.png",
+      "icon": "icons/callvibe.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -45,7 +45,7 @@
     {
       "id": "jade_browser",
       "name": "Jade: Private Ad Block Browser",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/jade_browser_icon.png",
+      "icon": "icons/jade_browser.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -66,7 +66,7 @@
     {
       "id": "kairo_browser",
       "name": "Kairo Browser",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/kairo_browser_icon.png",
+      "icon": "icons/kairo_browser.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -87,7 +87,7 @@
     {
       "id": "reverie_drama",
       "name": "Reverie Drama",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/reverie_drama_icon.png",
+      "icon": "icons/reverie_drama.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -108,7 +108,7 @@
     {
       "id": "skylark_tv",
       "name": "Skylark Tv",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/skylark_tv_icon.png",
+      "icon": "icons/skylark_tv.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -127,7 +127,7 @@
     {
       "id": "snap_saver",
       "name": "Snap Saver",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/snap_saver_icon.png",
+      "icon": "icons/snap_saver.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -148,7 +148,7 @@
     {
       "id": "streamly_play",
       "name": "Streamly Play",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/streamly_play_icon.png",
+      "icon": "icons/streamly_play.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -167,7 +167,7 @@
     {
       "id": "turbovid",
       "name": "TurboVid - Video Downloader",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/turbovid_icon.png",
+      "icon": "icons/turbovid.webp",
       "platform": "Android",
       "description": "",
       "features": [],

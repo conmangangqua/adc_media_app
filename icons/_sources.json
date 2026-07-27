@@ -1,0 +1,38 @@
+{
+  "aiko_chat": {
+    "sha": "91cd83395c99864c97af3d05795e1892d283f72917cdd982813f9a4b373ba544",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/aiko_chat_icon.png"
+  },
+  "callvibe": {
+    "sha": "78502260976ed80e669b9c624b2075b2bb8528c8058ee8993d809a5115959f77",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/callvibe_icon.png"
+  },
+  "jade_browser": {
+    "sha": "5890eeefbd8191712c349291743ff1bdb5dad62bb09833a4528bb8bcf806fcff",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/jade_browser_icon.png"
+  },
+  "kairo_browser": {
+    "sha": "1ff41a4531cff8133100445bdfb44bcc19d414b2cea3937e9acc24686b04dc18",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/kairo_browser_icon.png"
+  },
+  "reverie_drama": {
+    "sha": "951547beefbc9cd6db25475fa47339d0bfd554e7f06fcaa5cbaf062ca1919b93",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/reverie_drama_icon.png"
+  },
+  "skylark_tv": {
+    "sha": "bde6143e86a6c08900a7f51f55489887d6b718d972fd98d0b8781fe7371c01ae",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/skylark_tv_icon.png"
+  },
+  "snap_saver": {
+    "sha": "73550b9818e9fb3be4518d8cc873d842274345a36efb4deafe1d35490bc43fe1",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/snap_saver_icon.png"
+  },
+  "streamly_play": {
+    "sha": "e583a32112afdc25ed1e2a5eabbd7a16801a8a2796c258c28341e480751a8e82",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/streamly_play_icon.png"
+  },
+  "turbovid": {
+    "sha": "ea0e3514fecfe163798d66a2879c047111c70b986343ff1ec842651076088626",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/turbovid_icon.png"
+  }
+}
