@@ -121,8 +121,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "Video Players & Editors",
+      "category_source": "store"
     },
     {
       "id": "snap_saver",
