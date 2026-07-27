@@ -106,6 +106,23 @@
       "category_source": "rule"
     },
     {
+      "id": "skylark_tv",
+      "name": "Skylark Tv",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/skylark_tv_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/skylark_tv_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null
+    },
+    {
       "id": "snap_saver",
       "name": "Snap Saver",
       "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/snap_saver_icon.png",
@@ -142,8 +159,8 @@
         "prod": "1.0.0+26070502"
       },
       "store": "",
-      "category": "iptv",
-      "category_source": "gitlab"
+      "category": "Entertainment",
+      "category_source": "store"
     },
     {
       "id": "turbovid",
