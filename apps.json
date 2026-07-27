@@ -108,7 +108,7 @@
     {
       "id": "skylark_tv",
       "name": "Skylark Tv",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/skylark_tv_icon.png",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/skylark_tv_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
