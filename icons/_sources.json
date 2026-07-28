@@ -38,5 +38,9 @@
   "bloom_drama": {
     "sha": "9343b89b98884240814f3efd1352505e59d38065041e372fa9f40290e93d02cd",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/bloom_drama_icon.png"
+  },
+  "ember_drama": {
+    "sha": "d7a990110b4da1e6508506ed7330696bb8cee0eeedd3783b2bd41dca75aacbf7",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/ember_drama_icon.png"
   }
 }

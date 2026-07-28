@@ -62,6 +62,23 @@
       "category_source": "store"
     },
     {
+      "id": "ember_drama",
+      "name": "Ember Drama",
+      "icon": "icons/ember_drama.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/ember_drama_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null
+    },
+    {
       "id": "jade_browser",
       "name": "Jade: Private Ad Block Browser",
       "icon": "icons/jade_browser.webp",
