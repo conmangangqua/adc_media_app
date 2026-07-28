@@ -22,6 +22,23 @@
       "category_source": "rule"
     },
     {
+      "id": "bloom_drama",
+      "name": "Bloom Drama",
+      "icon": "icons/bloom_drama.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/bloom_drama_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null
+    },
+    {
       "id": "callvibe",
       "name": "Callvibe",
       "icon": "icons/callvibe.webp",

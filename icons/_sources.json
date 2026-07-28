@@ -34,5 +34,9 @@
   "turbovid": {
     "sha": "ea0e3514fecfe163798d66a2879c047111c70b986343ff1ec842651076088626",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/turbovid_icon.png"
+  },
+  "bloom_drama": {
+    "sha": "9343b89b98884240814f3efd1352505e59d38065041e372fa9f40290e93d02cd",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/bloom_drama_icon.png"
   }
 }
