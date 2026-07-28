@@ -68,7 +68,9 @@
       "platform": "Android",
       "description": "",
       "features": [],
-      "downloads": {},
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/ember_drama_dev.apk"
+      },
       "versions": {
         "dev": "1.0.0+1",
         "prod": "1.0.0+1"
