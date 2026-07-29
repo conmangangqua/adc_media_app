@@ -77,8 +77,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "Streaming",
+      "category_source": "rule"
     },
     {
       "id": "jade_browser",
