@@ -196,11 +196,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/streamly_play_dev.apk",
-        "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/streamly_play_prod.apk"
+        "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/streamly_play_prod.apk",
+        "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/streamly_play.aab"
       },
       "versions": {
         "dev": "1.0.0+26073001",
-        "prod": "1.0.0+26070502"
+        "prod": "1.0.0+26070502",
+        "aab": "1.0.0+26073001"
       },
       "store": "",
       "category": "Entertainment",
