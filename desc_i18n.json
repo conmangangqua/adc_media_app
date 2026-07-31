@@ -1,0 +1,46 @@
+{
+ "aiko_chat": {
+  "en": "AI chat companion for real talks, voice conversations, and daily brainstorms.",
+  "vi": "Người bạn đồng hành trò chuyện AI cho các cuộc nói chuyện thực tế, trò chuyện bằng giọng nói và động não hàng ngày."
+ },
+ "bloom_drama": {
+  "en": "Vertical short dramas: romance, CEO, werewolf & mafia series in bite-size eps",
+  "vi": "Phim truyền hình ngắn theo chiều dọc: loạt phim lãng mạn, CEO, người sói và mafia trong các tập phim ngắn"
+ },
+ "callvibe": {
+  "en": "Caller ID & spam blocker to screen unknown numbers and silence robocalls.",
+  "vi": "ID người gọi & trình chặn thư rác để sàng lọc các số chưa biết và tắt tiếng các cuộc gọi tự động."
+ },
+ "ember_drama": {
+  "en": "Short drama app: swipe-to-play romance, CEO, mafia & werewolf episodes",
+  "vi": "Ứng dụng kịch ngắn: các tập phim lãng mạn vuốt để chơi, CEO, mafia và người sói"
+ },
+ "jade_browser": {
+  "en": "Private browser with clean, fast, secure browsing on every tab you open.",
+  "vi": "Trình duyệt riêng tư với khả năng duyệt web sạch sẽ, nhanh chóng và an toàn trên mọi tab bạn mở."
+ },
+ "kairo_browser": {
+  "en": "Private browser with fast tabs, bookmarks and clean, focused web browsing.",
+  "vi": "Trình duyệt riêng tư với các tab nhanh, dấu trang và duyệt web tập trung, sạch sẽ."
+ },
+ "reverie_drama": {
+  "en": "Short drama episodes: romance, billionaire, werewolf & mafia stories daily",
+  "vi": "Các tập phim ngắn: chuyện tình lãng mạn, tỷ phú, người sói & mafia hàng ngày"
+ },
+ "skylark_tv": {
+  "en": "Stream IPTV player playlists with smooth video playback and built-in EPG guide.",
+  "vi": "Truyền phát danh sách phát của trình phát IPTV với khả năng phát lại video mượt mà và hướng dẫn EPG tích hợp."
+ },
+ "snap_saver": {
+  "en": "Video downloader to save clips & stories to your gallery, fast and offline.",
+  "vi": "Trình tải xuống video để lưu clip và câu chuyện vào thư viện của bạn, nhanh chóng và ngoại tuyến."
+ },
+ "streamly_play": {
+  "en": "Stream IPTV player playlists easily with live EPG guide, movies, and series.",
+  "vi": "Dễ dàng phát trực tuyến danh sách phát của trình phát IPTV với hướng dẫn, phim và loạt phim EPG trực tiếp."
+ },
+ "turbovid": {
+  "en": "Video downloader to save clips to your gallery for fast offline playback",
+  "vi": "Trình tải xuống video để lưu clip vào thư viện của bạn để phát lại ngoại tuyến nhanh chóng"
+ }
+}
