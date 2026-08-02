@@ -181,7 +181,7 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/snap_saver.aab"
       },
       "versions": {
-        "dev": "1.0.3+26080101",
+        "dev": "1.0.4+26080201",
         "prod": "1.0.3+26080101",
         "aab": "1.0.3+26080101"
       },
