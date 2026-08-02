@@ -182,7 +182,7 @@
       },
       "versions": {
         "dev": "1.0.4+26080201",
-        "prod": "1.0.3+26080101",
+        "prod": "1.0.4+26080201",
         "aab": "1.0.4+26080201"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.snapsaver",
