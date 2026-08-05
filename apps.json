@@ -98,7 +98,7 @@
       },
       "versions": {
         "dev": "1.0.4+26080501",
-        "prod": "1.0.1+26070902",
+        "prod": "1.0.4+26080501",
         "aab": "1.0.4+26080501"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.jade.browser",
