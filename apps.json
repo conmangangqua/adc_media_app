@@ -38,7 +38,7 @@
         "prod": "1.0.0+26073001",
         "aab": "1.0.0+26073001"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.bloom.drama",
       "category": "Streaming",
       "category_source": "rule"
     },
@@ -164,7 +164,7 @@
         "prod": "1.0.0+26073002",
         "aab": "1.0.0+26073002"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.skylarktv",
       "category": "Video Players & Editors",
       "category_source": "store"
     },
