@@ -80,7 +80,7 @@
         "prod": "1.0.0+26073001",
         "aab": "1.0.0+26073001"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.ember.drama",
       "category": "Streaming",
       "category_source": "rule"
     },
@@ -206,7 +206,7 @@
         "prod": "1.0.0+26073001",
         "aab": "1.0.0+26073001"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.streamlyplay",
       "category": "Entertainment",
       "category_source": "store"
     },
