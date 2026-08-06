@@ -160,7 +160,7 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/skylark_tv.aab"
       },
       "versions": {
-        "dev": "1.0.0+26073002",
+        "dev": "1.0.1+26080501",
         "prod": "1.0.0+26073002",
         "aab": "1.0.1+26080501"
       },
