@@ -159,7 +159,7 @@
         "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/ringwise_prod.apk"
       },
       "versions": {
-        "dev": "1.0.3+26080601",
+        "dev": "1.0.0+26080601",
         "prod": "1.0.3+26080601"
       },
       "store": "",
