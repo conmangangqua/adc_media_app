@@ -46,5 +46,9 @@
   "ringwise": {
     "sha": "ee7a9a1ff9588c8b626bd8eea8d42572d9bcd0f7796caac89d18802f2619fd88",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/ringwise_icon.png"
+  },
+  "aegicall": {
+    "sha": "f39ea386f3a978679775d16edbb88d19682d0e09618dc7f370bf98c6ede5e3de",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/aegicall_icon.png"
   }
 }

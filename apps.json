@@ -1,6 +1,23 @@
 {
   "apps": [
     {
+      "id": "aegicall",
+      "name": "Aegicall",
+      "icon": "icons/aegicall.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/aegicall_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null
+    },
+    {
       "id": "aiko_chat",
       "name": "Aiko Chat",
       "icon": "icons/aiko_chat.webp",
