@@ -1,4 +1,8 @@
 {
+ "aegicall": {
+  "en": "Caller ID & spam blocker: see unknown callers, silence robocalls instantly.",
+  "vi": "ID người gọi và trình chặn thư rác: xem những người gọi không xác định, tắt tiếng cuộc gọi tự động ngay lập tức."
+ },
  "aiko_chat": {
   "en": "AI chat companion for real talks, voice conversations, and daily brainstorms.",
   "vi": "Người bạn đồng hành trò chuyện AI cho các cuộc nói chuyện thực tế, trò chuyện bằng giọng nói và động não hàng ngày."
@@ -26,6 +30,10 @@
  "reverie_drama": {
   "en": "Short drama episodes: romance, billionaire, werewolf & mafia stories daily",
   "vi": "Các tập phim ngắn: chuyện tình lãng mạn, tỷ phú, người sói & mafia hàng ngày"
+ },
+ "ringwise": {
+  "en": "Caller ID, spam call blocker & message tracker to screen unknown numbers.",
+  "vi": "ID người gọi, trình chặn cuộc gọi spam và trình theo dõi tin nhắn để sàng lọc các số chưa biết."
  },
  "skylark_tv": {
   "en": "Stream IPTV player playlists with smooth video playback and built-in EPG guide.",
