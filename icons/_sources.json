@@ -50,5 +50,9 @@
   "aegicall": {
     "sha": "f39ea386f3a978679775d16edbb88d19682d0e09618dc7f370bf98c6ede5e3de",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/aegicall_icon.png"
+  },
+  "sentrik": {
+    "sha": "6bae9ae2765952c592df7562848a3b1ce03ecad0962bb2ec87d18ee2d2c697a1",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/sentrik_icon.png"
   }
 }

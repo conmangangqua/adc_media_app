@@ -186,6 +186,23 @@
       "category_source": "gitlab"
     },
     {
+      "id": "sentrik",
+      "name": "Sentrik",
+      "icon": "icons/sentrik.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/sentrik_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "Caller ID",
+      "category_source": "gitlab"
+    },
+    {
       "id": "skylark_tv",
       "name": "Skylark Tv",
       "icon": "icons/skylark_tv.webp",
