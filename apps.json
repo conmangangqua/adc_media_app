@@ -16,7 +16,7 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": "caller",
+      "category": "Caller ID",
       "category_source": "gitlab"
     },
     {
@@ -182,7 +182,7 @@
         "prod": "1.0.0+26080601"
       },
       "store": "",
-      "category": "caller",
+      "category": "Caller ID",
       "category_source": "gitlab"
     },
     {
