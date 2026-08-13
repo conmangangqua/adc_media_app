@@ -3,7 +3,7 @@
     {
       "id": "aegicall",
       "name": "Aegicall",
-      "icon": "icons/aegicall.webp",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/aegicall_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -43,7 +43,7 @@
     {
       "id": "bloom_drama",
       "name": "Bloom Drama",
-      "icon": "icons/bloom_drama.webp",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/bloom_drama_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -75,6 +75,7 @@
       },
       "versions": {
         "dev": "1.0.3+26080601",
+        "prod": "1.0.3+26080601",
         "aab": "1.0.3+26080601"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.callvibe",
@@ -95,7 +96,8 @@
       },
       "versions": {
         "dev": "1.0.1+26081001",
-        "prod": "1.0.1+26081001"
+        "prod": "1.0.1+26081001",
+        "aab": "1.0.2+26081201"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.ember.drama",
       "category": "Streaming",
@@ -125,7 +127,7 @@
     {
       "id": "kairo_browser",
       "name": "Kairo Browser",
-      "icon": "icons/kairo_browser.webp",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/kairo_browser_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -205,7 +207,7 @@
     {
       "id": "roseix_browser",
       "name": "Roseix Browser",
-      "icon": "icons/roseix_browser.webp",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/roseix_browser_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
