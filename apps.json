@@ -12,7 +12,8 @@
         "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/aegicall_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+1"
+        "dev": "1.0.0+1",
+        "prod": "1.0.0+1"
       },
       "store": "",
       "category": "Caller ID",
@@ -157,6 +158,7 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/reverie_drama.aab"
       },
       "versions": {
+        "dev": "1.0.1+26072901",
         "prod": "1.0.1+26072901",
         "aab": "1.0.1+26072901"
       },
@@ -182,6 +184,23 @@
       "store": "",
       "category": "Caller ID",
       "category_source": "gitlab"
+    },
+    {
+      "id": "roseix_browser",
+      "name": "Roseix Browser",
+      "icon": "icons/roseix_browser.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/roseix_browser_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "Browser",
+      "category_source": "rule"
     },
     {
       "id": "sentrik",

@@ -54,5 +54,9 @@
   "sentrik": {
     "sha": "6bae9ae2765952c592df7562848a3b1ce03ecad0962bb2ec87d18ee2d2c697a1",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/sentrik_icon.png"
+  },
+  "roseix_browser": {
+    "sha": "cde26d4fdcaf7688051d6814ac4243e4dd556aa8eb89a406282048ea466113ee",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/roseix_browser_icon.png"
   }
 }
