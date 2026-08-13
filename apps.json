@@ -75,7 +75,6 @@
       },
       "versions": {
         "dev": "1.0.3+26080601",
-        "prod": "1.0.3+26080601",
         "aab": "1.0.3+26080601"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.callvibe",
@@ -96,8 +95,7 @@
       },
       "versions": {
         "dev": "1.0.1+26081001",
-        "prod": "1.0.1+26081001",
-        "aab": "1.0.2+26081201"
+        "prod": "1.0.1+26081001"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.ember.drama",
       "category": "Streaming",
