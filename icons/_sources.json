@@ -58,5 +58,9 @@
   "roseix_browser": {
     "sha": "cde26d4fdcaf7688051d6814ac4243e4dd556aa8eb89a406282048ea466113ee",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/roseix_browser_icon.png"
+  },
+  "lorevia": {
+    "sha": "23c13868697edeab60f01aa7ba597aaeecf2a9bf027a938202dd8a3a70e4a49a",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/lorevia_icon.png"
   }
 }
