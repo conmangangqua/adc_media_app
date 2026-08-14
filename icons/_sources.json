@@ -62,5 +62,9 @@
   "lorevia": {
     "sha": "23c13868697edeab60f01aa7ba597aaeecf2a9bf027a938202dd8a3a70e4a49a",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/lorevia_icon.png"
+  },
+  "lumo_browser": {
+    "sha": "ca61277c201b58809e8435e68d813edb1543beb85421f30837b59ec29da92875",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/lumo_browser_icon.png"
   }
 }

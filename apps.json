@@ -165,6 +165,23 @@
       "category_source": "gitlab"
     },
     {
+      "id": "lumo_browser",
+      "name": "Lumo Browser",
+      "icon": "icons/lumo_browser.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/lumo_browser_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "Browser",
+      "category_source": "rule"
+    },
+    {
       "id": "reverie_drama",
       "name": "Reverie Drama",
       "icon": "icons/reverie_drama.webp",
