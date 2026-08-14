@@ -27,6 +27,10 @@
   "en": "Private browser with fast tabs, bookmarks and clean, focused web browsing.",
   "vi": "Trình duyệt riêng tư với các tab nhanh, dấu trang và duyệt web tập trung, sạch sẽ."
  },
+ "lorevia": {
+  "en": "Vertical short dramas: romance, revenge & billionaire love in short episodes.",
+  "vi": "Phim truyền hình ngắn theo chiều dọc: lãng mạn, trả thù & tình yêu tỷ phú trong các tập ngắn."
+ },
  "reverie_drama": {
   "en": "Short drama episodes: romance, billionaire, werewolf & mafia stories daily",
   "vi": "Các tập phim ngắn: chuyện tình lãng mạn, tỷ phú, người sói & mafia hàng ngày"
@@ -34,6 +38,10 @@
  "ringwise": {
   "en": "Caller ID, spam call blocker & message tracker to screen unknown numbers.",
   "vi": "ID người gọi, trình chặn cuộc gọi spam và trình theo dõi tin nhắn để sàng lọc các số chưa biết."
+ },
+ "roseix_browser": {
+  "en": "Private browser with a built-in ad blocker for faster, cleaner browsing.",
+  "vi": "Trình duyệt riêng tư có trình chặn quảng cáo tích hợp để duyệt nhanh hơn, sạch hơn."
  },
  "sentrik": {
   "en": "Caller ID & spam blocker: identify unknown callers, silence robocalls fast.",
