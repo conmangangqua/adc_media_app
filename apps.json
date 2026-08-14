@@ -120,7 +120,7 @@
         "prod": "1.0.5+26081001",
         "aab": "1.0.5+26081001"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.jade.browser",
+      "store": "",
       "category": "Browser",
       "category_source": "rule"
     },
@@ -182,6 +182,23 @@
       "store": "",
       "category": "Browser",
       "category_source": "rule"
+    },
+    {
+      "id": "miravel_chat",
+      "name": "Miravel Chat",
+      "icon": "icons/miravel_chat.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/miravel_chat_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null
     },
     {
       "id": "reverie_drama",
@@ -361,8 +378,8 @@
         "prod": "1.0.4+26081002"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "Browser",
+      "category_source": "rule"
     }
   ]
 }

@@ -70,5 +70,9 @@
   "vantis_browser": {
     "sha": "588dd90a85b381ddfc85048c72b71759f58ab6f1cc80b702da0195628abb3f83",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/vantis_browser_icon.png"
+  },
+  "miravel_chat": {
+    "sha": "12250290daf7edb8fd92f0f95d9be28dfe7917a6f1ab7a11aceac8714f038f3c",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/miravel_chat_icon.png"
   }
 }
