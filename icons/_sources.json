@@ -66,5 +66,9 @@
   "lumo_browser": {
     "sha": "ca61277c201b58809e8435e68d813edb1543beb85421f30837b59ec29da92875",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/lumo_browser_icon.png"
+  },
+  "vantis_browser": {
+    "sha": "588dd90a85b381ddfc85048c72b71759f58ab6f1cc80b702da0195628abb3f83",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/vantis_browser_icon.png"
   }
 }
