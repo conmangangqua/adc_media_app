@@ -74,5 +74,9 @@
   "miravel_chat": {
     "sha": "221f4c0d0ad9f0cd6a82ce34115efa426a8e27b197a1b979b5d122d1876d299a",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/miravel_chat_icon.png"
+  },
+  "liora_chat": {
+    "sha": "8b7458ecb1567f8d4afc16693286ee843d99b5c4ac1601b2385665a9d8a1cbc4",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/liora_chat_icon.png"
   }
 }
