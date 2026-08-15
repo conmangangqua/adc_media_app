@@ -31,6 +31,14 @@
   "en": "Vertical short dramas: romance, revenge & billionaire love in short episodes.",
   "vi": "Phim truyền hình ngắn theo chiều dọc: lãng mạn, trả thù & tình yêu tỷ phú trong các tập ngắn."
  },
+ "lumo_browser": {
+  "en": "Private browser with built-in ad block: stop pop-ups, trackers, browse fast.",
+  "vi": "Trình duyệt riêng tư với khối quảng cáo tích hợp: dừng cửa sổ bật lên, trình theo dõi, duyệt nhanh."
+ },
+ "miravel_chat": {
+  "en": "AI companion chat: talk, vent & reflect with a caring AI friend anytime.",
+  "vi": "Trò chuyện đồng hành với AI: trò chuyện, trút giận và suy ngẫm với một người bạn AI quan tâm bất cứ lúc nào."
+ },
  "reverie_drama": {
   "en": "Short drama episodes: romance, billionaire, werewolf & mafia stories daily",
   "vi": "Các tập phim ngắn: chuyện tình lãng mạn, tỷ phú, người sói & mafia hàng ngày"
@@ -62,5 +70,9 @@
  "turbovid": {
   "en": "Video downloader to save clips to your gallery for fast offline playback",
   "vi": "Trình tải xuống video để lưu clip vào thư viện của bạn để phát lại ngoại tuyến nhanh chóng"
+ },
+ "vantis_browser": {
+  "en": "Private browser & ad blocker: cut pop-ups and trackers, load pages faster.",
+  "vi": "Trình duyệt riêng tư & trình chặn quảng cáo: cắt cửa sổ bật lên và trình theo dõi, tải trang nhanh hơn."
  }
 }
