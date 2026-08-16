@@ -53,7 +53,7 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/bloom_drama.aab"
       },
       "versions": {
-        "dev": "1.0.1+26081101",
+        "dev": "1.0.2+26081601",
         "prod": "1.0.1+26081101",
         "aab": "1.0.2+26081601"
       },
