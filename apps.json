@@ -116,7 +116,7 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/jade_browser.aab"
       },
       "versions": {
-        "dev": "1.0.6+26081601",
+        "dev": "1.0.6+26081602",
         "prod": "1.0.6+26081601",
         "aab": "1.0.6+26081601"
       },
@@ -358,7 +358,7 @@
       "versions": {
         "dev": "1.0.1+26081301",
         "prod": "1.0.1+26081301",
-        "aab": "1.0.1+26081301"
+        "aab": "1.0.2+26081601"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.streamlyplay",
       "category": "Video Players",
