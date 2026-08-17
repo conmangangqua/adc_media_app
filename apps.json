@@ -34,7 +34,7 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/aiko_chat.aab"
       },
       "versions": {
-        "dev": "1.0.2+26081001",
+        "dev": "1.0.3+26081601",
         "prod": "1.0.2+26081001",
         "aab": "1.0.3+26081601"
       },
@@ -240,7 +240,7 @@
         "prod": "1.0.2+26081401",
         "aab": "1.0.3+26081601"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.reverie.drama",
+      "store": "",
       "category": "Streaming",
       "category_source": "rule"
     },
