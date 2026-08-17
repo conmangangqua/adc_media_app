@@ -35,7 +35,7 @@
       },
       "versions": {
         "dev": "1.0.3+26081601",
-        "prod": "1.0.2+26081001",
+        "prod": "1.0.3+26081601",
         "aab": "1.0.3+26081601"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.aiko.chat",
@@ -240,7 +240,7 @@
         "prod": "1.0.2+26081401",
         "aab": "1.0.3+26081601"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.reverie.drama",
       "category": "Streaming",
       "category_source": "rule"
     },
