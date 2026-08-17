@@ -101,7 +101,7 @@
         "prod": "1.0.3+26081401",
         "aab": "1.0.4+26081601"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.ember.drama",
+      "store": "",
       "category": "Streaming",
       "category_source": "rule"
     },
@@ -122,7 +122,7 @@
         "prod": "1.0.6+26081602",
         "aab": "1.0.6+26081602"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.jade.browser",
+      "store": "",
       "category": "Browser",
       "category_source": "rule"
     },
@@ -338,8 +338,7 @@
       },
       "versions": {
         "dev": "1.0.4+26080201",
-        "prod": "1.0.4+26080201",
-        "aab": "1.0.5+26081701"
+        "prod": "1.0.4+26080201"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.snapsaver",
       "category": "Tools",
@@ -383,7 +382,7 @@
         "prod": "1.0.7+26070301",
         "aab": "1.0.8+26081601"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tmt.video.downloader",
+      "store": "",
       "category": "Downloader",
       "category_source": "rule"
     },
