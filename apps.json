@@ -379,7 +379,7 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/turbovid.aab"
       },
       "versions": {
-        "dev": "1.0.7+26070401",
+        "dev": "1.0.8+26081601",
         "prod": "1.0.7+26070301",
         "aab": "1.0.8+26081601"
       },
