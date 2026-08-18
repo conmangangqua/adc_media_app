@@ -35,7 +35,7 @@
       },
       "versions": {
         "dev": "1.0.3+26081801",
-        "prod": "1.0.3+26081601",
+        "prod": "1.0.3+26081801",
         "aab": "1.0.3+26081601"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.aiko.chat",
@@ -122,7 +122,7 @@
         "prod": "1.0.6+26081602",
         "aab": "1.0.6+26081602"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.jade.browser",
       "category": "Browser",
       "category_source": "rule"
     },
