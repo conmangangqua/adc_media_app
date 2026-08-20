@@ -141,7 +141,7 @@
       "versions": {
         "dev": "1.0.2+26072902",
         "prod": "1.0.2+26072902",
-        "aab": "1.0.3+26081604"
+        "aab": "1.0.4+26082001"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.kairo.browser",
       "category": "Browser",
