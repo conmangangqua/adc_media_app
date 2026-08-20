@@ -240,7 +240,7 @@
         "prod": "1.0.4+26082001",
         "aab": "1.0.4+26081801"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.reverie.drama",
+      "store": "",
       "category": "Streaming",
       "category_source": "rule"
     },
@@ -362,7 +362,7 @@
         "prod": "1.0.1+26081301",
         "aab": "1.0.3+26082001"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.streamlyplay",
+      "store": "",
       "category": "Video Players",
       "category_source": "store"
     },
