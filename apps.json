@@ -100,8 +100,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "Streaming",
+      "category_source": "rule"
     },
     {
       "id": "ember_drama",
@@ -424,6 +424,23 @@
       "store": "",
       "category": "Browser",
       "category_source": "rule"
+    },
+    {
+      "id": "zephlix",
+      "name": "Zephlix",
+      "icon": "icons/zephlix.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/zephlix_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "iptv",
+      "category_source": "gitlab"
     }
   ]
 }

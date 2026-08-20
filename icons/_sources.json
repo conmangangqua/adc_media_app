@@ -82,5 +82,9 @@
   "dramavia": {
     "sha": "2ce3ecc86d4f9232b7e92fa27ccda3cde28d689aa59d8165992c1a69e50f4b92",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/dramavia_icon.png"
+  },
+  "zephlix": {
+    "sha": "1be749919e259f38f9912965b0277ec8ae43d2459c2dfc3971033cb09bdbad74",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/zephlix_icon.png"
   }
 }
