@@ -78,7 +78,7 @@
       "versions": {
         "dev": "1.0.3+26080601",
         "prod": "1.0.3+26080601",
-        "aab": "1.0.4+26081601"
+        "aab": "1.0.5+26082001"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.callvibe",
       "category": "Communication",
