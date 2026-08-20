@@ -57,7 +57,7 @@
       "versions": {
         "dev": "1.0.2+26081901",
         "prod": "1.0.2+26081901",
-        "aab": "1.0.2+26081604"
+        "aab": "1.0.3+26082001"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.bloom.drama",
       "category": "Streaming",
@@ -135,13 +135,12 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/kairo_browser_dev.apk",
-        "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/kairo_browser_prod.apk",
-        "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/kairo_browser.aab"
+        "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/kairo_browser_prod.apk"
       },
       "versions": {
         "dev": "1.0.2+26072902",
         "prod": "1.0.2+26072902",
-        "aab": "1.0.4+26082001"
+        "aab": "1.0.4+26082002"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.kairo.browser",
       "category": "Browser",
