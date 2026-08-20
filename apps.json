@@ -323,6 +323,23 @@
       "category_source": "gitlab"
     },
     {
+      "id": "sirenya",
+      "name": "Sirenya",
+      "icon": "icons/sirenya.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/sirenya_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null
+    },
+    {
       "id": "skylark_tv",
       "name": "Skylark Tv",
       "icon": "icons/skylark_tv.webp",

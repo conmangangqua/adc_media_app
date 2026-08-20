@@ -86,5 +86,9 @@
   "zephlix": {
     "sha": "1be749919e259f38f9912965b0277ec8ae43d2459c2dfc3971033cb09bdbad74",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/zephlix_icon.png"
+  },
+  "sirenya": {
+    "sha": "536e8b99a3c622a03fb90e75ee41185d83b2247a3d5465700223bb96aa14986f",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/sirenya_icon.png"
   }
 }
