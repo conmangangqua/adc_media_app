@@ -442,11 +442,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/vantis_browser_dev.apk",
-        "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/vantis_browser_prod.apk"
+        "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/vantis_browser_prod.apk",
+        "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/vantis_browser.aab"
       },
       "versions": {
         "dev": "1.0.4+26081002",
-        "prod": "1.0.4+26081002"
+        "prod": "1.0.4+26081002",
+        "aab": "1.0.0+26082001"
       },
       "store": "",
       "category": "Browser",
