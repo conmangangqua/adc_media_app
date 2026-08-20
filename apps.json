@@ -18,8 +18,8 @@
         "aab": "1.0.0+26082001"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.aegicall",
-      "category": "Caller ID",
-      "category_source": "gitlab"
+      "category": "Communication",
+      "category_source": "store"
     },
     {
       "id": "aiko_chat",
@@ -262,7 +262,7 @@
       },
       "versions": {
         "dev": "1.0.5+26082006",
-        "prod": "1.0.4+26082003",
+        "prod": "1.0.5+26082006",
         "aab": "1.0.5+26082006"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.reverie.drama",
