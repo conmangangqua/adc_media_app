@@ -78,5 +78,9 @@
   "liora_chat": {
     "sha": "8b7458ecb1567f8d4afc16693286ee843d99b5c4ac1601b2385665a9d8a1cbc4",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/liora_chat_icon.png"
+  },
+  "dramavia": {
+    "sha": "2ce3ecc86d4f9232b7e92fa27ccda3cde28d689aa59d8165992c1a69e50f4b92",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/dramavia_icon.png"
   }
 }

@@ -85,6 +85,23 @@
       "category_source": "store"
     },
     {
+      "id": "dramavia",
+      "name": "Dramavia",
+      "icon": "icons/dramavia.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/dramavia_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null
+    },
+    {
       "id": "ember_drama",
       "name": "Ember Drama",
       "icon": "icons/ember_drama.webp",
@@ -232,12 +249,11 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/reverie_drama_dev.apk",
-        "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/reverie_drama_prod.apk",
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/reverie_drama.aab"
       },
       "versions": {
         "dev": "1.0.4+26082003",
-        "prod": "1.0.4+26082001",
+        "prod": "1.0.4+26082003",
         "aab": "1.0.4+26082003"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.reverie.drama",
