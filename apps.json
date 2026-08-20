@@ -118,7 +118,7 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/jade_browser.aab"
       },
       "versions": {
-        "dev": "1.0.7+26082001",
+        "dev": "1.0.7+26082002",
         "prod": "1.0.7+26082001",
         "aab": "1.0.7+26082001"
       },
@@ -237,7 +237,7 @@
       },
       "versions": {
         "dev": "1.0.4+26082001",
-        "prod": "1.0.4+26081901",
+        "prod": "1.0.4+26082001",
         "aab": "1.0.4+26081801"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.reverie.drama",
