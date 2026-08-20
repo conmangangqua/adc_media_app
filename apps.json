@@ -17,7 +17,7 @@
         "prod": "1.0.0+1",
         "aab": "1.0.0+26082001"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.aegicall",
       "category": "Caller ID",
       "category_source": "gitlab"
     },
@@ -261,7 +261,7 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/reverie_drama.aab"
       },
       "versions": {
-        "dev": "1.0.5+26082005",
+        "dev": "1.0.5+26082006",
         "prod": "1.0.4+26082003",
         "aab": "1.0.4+26082003"
       },
