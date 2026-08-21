@@ -15,6 +15,10 @@
   "en": "Caller ID & spam blocker to screen unknown numbers and silence robocalls.",
   "vi": "ID người gọi & trình chặn thư rác để sàng lọc các số chưa biết và tắt tiếng các cuộc gọi tự động."
  },
+ "dramavia": {
+  "en": "Short drama, vertical & bite-sized — swipe up to jump to the next episode.",
+  "vi": "Kịch ngắn, dọc và vừa vặn — vuốt lên để chuyển sang tập tiếp theo."
+ },
  "ember_drama": {
   "en": "Short drama app: swipe-to-play romance, CEO, mafia & werewolf episodes",
   "vi": "Ứng dụng kịch ngắn: các tập phim lãng mạn vuốt để chơi, CEO, mafia và người sói"
@@ -59,6 +63,10 @@
   "en": "Caller ID & spam blocker: identify unknown callers, silence robocalls fast.",
   "vi": "ID người gọi & trình chặn thư rác: xác định người gọi không xác định, tắt tiếng cuộc gọi tự động nhanh chóng."
  },
+ "sirenya": {
+  "en": "Short drama app: vertical episodes you binge one swipe at a time, anytime.",
+  "vi": "Ứng dụng kịch ngắn: các tập phim dọc mà bạn có thể vuốt từng lần một, bất cứ lúc nào."
+ },
  "skylark_tv": {
   "en": "Stream IPTV player playlists with smooth video playback and built-in EPG guide.",
   "vi": "Truyền phát danh sách phát của trình phát IPTV với khả năng phát lại video mượt mà và hướng dẫn EPG tích hợp."
@@ -78,5 +86,9 @@
  "vantis_browser": {
   "en": "Private browser & ad blocker: cut pop-ups and trackers, load pages faster.",
   "vi": "Trình duyệt riêng tư & trình chặn quảng cáo: cắt cửa sổ bật lên và trình theo dõi, tải trang nhanh hơn."
+ },
+ "zephlix": {
+  "en": "IPTV player for your M3U & Xtream playlists: live TV, movies & EPG guide",
+  "vi": "Trình phát IPTV cho danh sách phát M3U & Xtream của bạn: truyền hình trực tiếp, phim & hướng dẫn EPG"
  }
 }
