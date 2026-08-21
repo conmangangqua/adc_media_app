@@ -94,5 +94,9 @@
   "klarvo": {
     "sha": "6c4a9ae23a909a786d6b5a65343c3e3378b71de150174f535218a7c4da66d1c3",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/klarvo_icon.png"
+  },
+  "klipnest": {
+    "sha": "816878ebf58519cd865e706cc3e65bdceacad9734df63c937c14e51b15de4ca9",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/klipnest_icon.png"
   }
 }
