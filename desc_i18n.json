@@ -31,6 +31,14 @@
   "en": "Private browser with fast tabs, bookmarks and clean, focused web browsing.",
   "vi": "Trình duyệt riêng tư với các tab nhanh, dấu trang và duyệt web tập trung, sạch sẽ."
  },
+ "klarvo": {
+  "en": "IPTV player for M3U & Xtream playlists: live TV, movies, series & EPG guide",
+  "vi": "Trình phát IPTV cho danh sách phát M3U & Xtream: truyền hình trực tiếp, phim, loạt phim & hướng dẫn EPG"
+ },
+ "klipnest": {
+  "en": "Save videos, music & photos from any site. Watch offline — no account needed.",
+  "vi": "Lưu video, nhạc và ảnh từ bất kỳ trang web nào. Xem ngoại tuyến - không cần tài khoản."
+ },
  "liora_chat": {
   "en": "AI companion chat — talk, share & bond with a caring AI friend anytime.",
   "vi": "Trò chuyện đồng hành với AI - trò chuyện, chia sẻ và gắn kết với một người bạn AI quan tâm bất cứ lúc nào."
@@ -58,6 +66,10 @@
  "roseix_browser": {
   "en": "Private browser with a built-in ad blocker for faster, cleaner browsing.",
   "vi": "Trình duyệt riêng tư có trình chặn quảng cáo tích hợp để duyệt nhanh hơn, sạch hơn."
+ },
+ "sablio": {
+  "en": "Vertical short dramas: swipe bite-size episodes of romance, revenge & twists.",
+  "vi": "Phim truyền hình ngắn theo chiều dọc: chiếu các tập phim lãng mạn, trả thù và khúc mắc ngắn gọn."
  },
  "sentrik": {
   "en": "Caller ID & spam blocker: identify unknown callers, silence robocalls fast.",
