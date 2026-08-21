@@ -98,5 +98,9 @@
   "klipnest": {
     "sha": "816878ebf58519cd865e706cc3e65bdceacad9734df63c937c14e51b15de4ca9",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/klipnest_icon.png"
+  },
+  "sablio": {
+    "sha": "5cdd7f2e537b08b1eb7795347a4589d5b77eecbf0e78539e5ecf1f630da3d09e",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/sablio_icon.png"
   }
 }
