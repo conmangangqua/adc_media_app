@@ -167,6 +167,23 @@
       "category_source": "rule"
     },
     {
+      "id": "klarvo",
+      "name": "Klarvo",
+      "icon": "icons/klarvo.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/klarvo_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null
+    },
+    {
       "id": "liora_chat",
       "name": "Liora Chat",
       "icon": "icons/liora_chat.webp",

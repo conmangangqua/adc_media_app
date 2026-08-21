@@ -90,5 +90,9 @@
   "sirenya": {
     "sha": "536e8b99a3c622a03fb90e75ee41185d83b2247a3d5465700223bb96aa14986f",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/sirenya_icon.png"
+  },
+  "klarvo": {
+    "sha": "6c4a9ae23a909a786d6b5a65343c3e3378b71de150174f535218a7c4da66d1c3",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/klarvo_icon.png"
   }
 }
