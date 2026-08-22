@@ -102,5 +102,9 @@
   "sablio": {
     "sha": "5cdd7f2e537b08b1eb7795347a4589d5b77eecbf0e78539e5ecf1f630da3d09e",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/sablio_icon.png"
+  },
+  "stashvid": {
+    "sha": "fd88dc65fcd825939e76e4761ec05457701eaab2e30545818a50d58bf1cfd459",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/stashvid_icon.png"
   }
 }

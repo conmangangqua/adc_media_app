@@ -453,6 +453,23 @@
       "category_source": "store"
     },
     {
+      "id": "stashvid",
+      "name": "Stashvid",
+      "icon": "icons/stashvid.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/stashvid_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "downloader",
+      "category_source": "gitlab"
+    },
+    {
       "id": "streamly_play",
       "name": "Streamly Play",
       "icon": "icons/streamly_play.webp",
