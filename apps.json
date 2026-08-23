@@ -469,11 +469,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/stashvid_dev.apk",
-        "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/stashvid_prod.apk"
+        "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/stashvid_prod.apk",
+        "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/stashvid.aab"
       },
       "versions": {
         "dev": "1.0.0+1",
-        "prod": "1.0.0+1"
+        "prod": "1.0.0+1",
+        "aab": "1.0.0+26082301"
       },
       "store": "",
       "category": "downloader",
