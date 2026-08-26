@@ -248,7 +248,7 @@
         "prod": "1.0.0+1",
         "aab": "1.0.0+26082002"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.lorevia",
       "category": "Entertainment",
       "category_source": "gitlab"
     },
@@ -395,7 +395,7 @@
         "prod": "1.0.0+26082002",
         "aab": "1.0.0+26082002"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.sentrik",
       "category": "Caller ID",
       "category_source": "gitlab"
     },
