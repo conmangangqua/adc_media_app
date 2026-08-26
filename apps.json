@@ -449,6 +449,7 @@
       "description": "",
       "features": [],
       "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/snap_saver_dev.apk",
         "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/snap_saver_prod.apk",
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/snap_saver.aab"
       },
