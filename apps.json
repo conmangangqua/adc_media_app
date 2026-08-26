@@ -250,7 +250,7 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.lorevia",
       "category": "Entertainment",
-      "category_source": "gitlab"
+      "category_source": "store"
     },
     {
       "id": "lumo_browser",
@@ -396,8 +396,8 @@
         "aab": "1.0.0+26082002"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.sentrik",
-      "category": "Caller ID",
-      "category_source": "gitlab"
+      "category": "Communication",
+      "category_source": "store"
     },
     {
       "id": "sirenya",
