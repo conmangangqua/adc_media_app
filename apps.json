@@ -185,7 +185,7 @@
         "prod": "1.0.0+2",
         "aab": "1.0.0+2"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.klarvo",
       "category": "iptv",
       "category_source": "gitlab"
     },
