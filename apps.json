@@ -186,8 +186,8 @@
         "aab": "1.0.0+2"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.klarvo",
-      "category": "iptv",
-      "category_source": "gitlab"
+      "category": "Video Players",
+      "category_source": "store"
     },
     {
       "id": "klipnest",
@@ -418,7 +418,7 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.sirenya",
       "category": "Entertainment",
-      "category_source": "gitlab"
+      "category_source": "store"
     },
     {
       "id": "skylark_tv",
