@@ -55,7 +55,7 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/bloom_drama.aab"
       },
       "versions": {
-        "dev": "1.0.2+26081901",
+        "dev": "1.0.4+26082102",
         "prod": "1.0.2+26081901",
         "aab": "1.0.4+26082102"
       },
@@ -563,9 +563,9 @@
         "prod": "1.0.0+2",
         "aab": "1.0.0+2"
       },
-      "store": "",
-      "category": "iptv",
-      "category_source": "gitlab"
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.zephlix",
+      "category": "Video Players",
+      "category_source": "store"
     }
   ]
 }
