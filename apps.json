@@ -374,7 +374,7 @@
         "prod": "1.0.0+3",
         "aab": "1.0.0+26082401"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.sablio",
       "category": "Entertainment",
       "category_source": "gitlab"
     },
