@@ -119,7 +119,7 @@
       },
       "versions": {
         "dev": "1.0.6+26090401",
-        "prod": "1.0.6+26082101",
+        "prod": "1.0.6+26090401",
         "aab": "1.0.6+26082101"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.ember.drama",
