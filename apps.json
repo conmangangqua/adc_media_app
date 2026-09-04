@@ -99,7 +99,7 @@
       "versions": {
         "dev": "1.0.1+26090402",
         "prod": "1.0.1+26090402",
-        "aab": "1.0.0+26082201"
+        "aab": "1.0.1+26090402"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.dramavia",
       "category": "Streaming",
@@ -412,7 +412,7 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/sirenya.aab"
       },
       "versions": {
-        "dev": "1.0.0+26090401",
+        "dev": "1.0.1+26090402",
         "prod": "1.0.0+26090401",
         "aab": "1.0.0+26082201"
       },
