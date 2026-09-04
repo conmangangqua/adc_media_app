@@ -244,7 +244,7 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/lorevia.aab"
       },
       "versions": {
-        "dev": "1.0.0+26090401",
+        "dev": "1.0.1+26090402",
         "prod": "1.0.0+26090401",
         "aab": "1.0.0+26082002"
       },
@@ -371,7 +371,7 @@
       },
       "versions": {
         "dev": "1.0.1+26090402",
-        "prod": "1.0.0+26090401",
+        "prod": "1.0.1+26090402",
         "aab": "1.0.0+26082401"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.sablio",
