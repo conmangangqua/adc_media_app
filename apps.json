@@ -127,6 +127,23 @@
       "category_source": "rule"
     },
     {
+      "id": "gpsage",
+      "name": "Gpsage",
+      "icon": "icons/gpsage.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/gpsage_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.3+26082401"
+      },
+      "store": "",
+      "category": "Maps & Navigation",
+      "category_source": "gitlab"
+    },
+    {
       "id": "jade_browser",
       "name": "Jade: Private Ad Block Browser",
       "icon": "icons/jade_browser.webp",

@@ -106,5 +106,9 @@
   "stashvid": {
     "sha": "fd88dc65fcd825939e76e4761ec05457701eaab2e30545818a50d58bf1cfd459",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/stashvid_icon.png"
+  },
+  "gpsage": {
+    "sha": "28f8bfa6bca0a937de8fffadc0c35ed60f60f6ba7f4560b5dfaea13896f31d56",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/gpsage_icon.png"
   }
 }
