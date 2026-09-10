@@ -138,7 +138,7 @@
         "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/gpsage_prod.apk"
       },
       "versions": {
-        "dev": "1.0.3+26082401",
+        "dev": "1.0.0+26091001",
         "prod": "1.0.3+26082401"
       },
       "store": "",
