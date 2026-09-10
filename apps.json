@@ -207,7 +207,7 @@
         "aab": "1.0.0+26083001"
       },
       "store": "",
-      "category": "downloader",
+      "category": "Downloader",
       "category_source": "gitlab"
     },
     {
@@ -480,7 +480,7 @@
         "aab": "1.0.0+26082301"
       },
       "store": "",
-      "category": "downloader",
+      "category": "Downloader",
       "category_source": "gitlab"
     },
     {
