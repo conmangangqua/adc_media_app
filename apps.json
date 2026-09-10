@@ -347,7 +347,7 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/ringwise.aab"
       },
       "versions": {
-        "dev": "1.0.0+26080601",
+        "dev": "1.0.1+26091001",
         "prod": "1.0.0+26080601",
         "aab": "1.0.0+26082001"
       },
