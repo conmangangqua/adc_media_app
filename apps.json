@@ -540,7 +540,7 @@
         "prod": "1.0.9+26082001",
         "aab": "1.0.9+26082001"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tmt.video.downloader",
+      "store": "",
       "category": "Downloader",
       "category_source": "rule"
     },
