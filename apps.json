@@ -228,8 +228,8 @@
         "aab": "1.0.0+26083001"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.klipnest",
-      "category": "Downloader",
-      "category_source": "gitlab"
+      "category": "Video Players",
+      "category_source": "store"
     },
     {
       "id": "liora_chat",
