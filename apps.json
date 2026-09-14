@@ -316,6 +316,23 @@
       "category_source": "rule"
     },
     {
+      "id": "rbxmint",
+      "name": "Rbxmint",
+      "icon": "icons/rbxmint.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/rbxmint_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null
+    },
+    {
       "id": "reverie_drama",
       "name": "Reverie Drama",
       "icon": "icons/reverie_drama.webp",

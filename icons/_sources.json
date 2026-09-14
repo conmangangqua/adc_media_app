@@ -110,5 +110,9 @@
   "gpsage": {
     "sha": "28f8bfa6bca0a937de8fffadc0c35ed60f60f6ba7f4560b5dfaea13896f31d56",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/gpsage_icon.png"
+  },
+  "rbxmint": {
+    "sha": "322be5260426d5096ee16b4c9fbe34337f2eddce49b0c7e369d7601af8eea1a6",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/rbxmint_icon.png"
   }
 }
