@@ -330,9 +330,9 @@
         "dev": "1.0.0+1",
         "prod": "1.0.0+1"
       },
-      "store": "",
-      "category": "tools",
-      "category_source": "gitlab"
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.rbxmint",
+      "category": "Entertainment",
+      "category_source": "desc"
     },
     {
       "id": "reverie_drama",
