@@ -127,6 +127,23 @@
       "category_source": "rule"
     },
     {
+      "id": "fpspeak",
+      "name": "Fpspeak",
+      "icon": "icons/fpspeak.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/fpspeak_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null
+    },
+    {
       "id": "gpsage",
       "name": "Gpsage",
       "icon": "icons/gpsage.webp",
