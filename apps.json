@@ -142,8 +142,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "Cleaner & Booster",
+      "category_source": "gitlab"
     },
     {
       "id": "gpsage",
@@ -534,7 +534,7 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/stashvid.aab"
       },
       "versions": {
-        "dev": "1.0.0+26082301",
+        "dev": "1.0.0+26091401",
         "prod": "1.0.0+26082301",
         "aab": "1.0.0+26082301"
       },
