@@ -122,5 +122,9 @@
   "panelo": {
     "sha": "1b46d8a3ddc72dddf588522f9d4a136c3d30ff3718972585d115ff643593e6e1",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/panelo_icon.png"
+  },
+  "dreamatic": {
+    "sha": "63558357d1e907cd4936fedf78ea76b3a193942d4c531af9387368e1064e686c",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/dreamatic_icon.png"
   }
 }

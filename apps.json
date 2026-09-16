@@ -106,6 +106,23 @@
       "category_source": "rule"
     },
     {
+      "id": "dreamatic",
+      "name": "Dreamatic",
+      "icon": "icons/dreamatic.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/dreamatic_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.2+26082601"
+      },
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.dreamatic",
+      "category": "Entertainment",
+      "category_source": "store"
+    },
+    {
       "id": "ember_drama",
       "name": "Ember Drama",
       "icon": "icons/ember_drama.webp",
