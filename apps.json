@@ -335,6 +335,23 @@
       "category_source": "rule"
     },
     {
+      "id": "panelo",
+      "name": "Panelo",
+      "icon": "icons/panelo.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/panelo_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.1+26091301"
+      },
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.panelo",
+      "category": "Entertainment",
+      "category_source": "store"
+    },
+    {
       "id": "rbxmint",
       "name": "Rbxmint",
       "icon": "icons/rbxmint.webp",
