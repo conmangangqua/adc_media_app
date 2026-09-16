@@ -470,7 +470,8 @@
       },
       "versions": {
         "dev": "1.0.0+26082002",
-        "prod": "1.0.0+26082002"
+        "prod": "1.0.0+26082002",
+        "aab": "1.0.0+26082002"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.sentrik",
       "category": "Communication",
