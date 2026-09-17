@@ -126,5 +126,9 @@
   "dreamatic": {
     "sha": "63558357d1e907cd4936fedf78ea76b3a193942d4c531af9387368e1064e686c",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/dreamatic_icon.png"
+  },
+  "sonnetta": {
+    "sha": "5a193fe96427c8484b359b761afd8df02e8b9d065b79fe1d9b5faa89bb2c5df5",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/sonnetta_icon.png"
   }
 }

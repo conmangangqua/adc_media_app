@@ -560,6 +560,23 @@
       "category_source": "store"
     },
     {
+      "id": "sonnetta",
+      "name": "Sonnetta",
+      "icon": "icons/sonnetta.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/sonnetta_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "Entertainment",
+      "category_source": "gitlab"
+    },
+    {
       "id": "stashvid",
       "name": "Stashvid",
       "icon": "icons/stashvid.webp",
