@@ -130,5 +130,9 @@
   "sonnetta": {
     "sha": "5a193fe96427c8484b359b761afd8df02e8b9d065b79fe1d9b5faa89bb2c5df5",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/sonnetta_icon.png"
+  },
+  "castkoi": {
+    "sha": "7fed0bd374d64e2fcb9199e4bbb49e2ce21fedf369dedefa2ed47e9e35da66e7",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/castkoi_icon.png"
   }
 }

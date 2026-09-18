@@ -85,6 +85,23 @@
       "category_source": "store"
     },
     {
+      "id": "castkoi",
+      "name": "Castkoi",
+      "icon": "icons/castkoi.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/castkoi_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null
+    },
+    {
       "id": "dramavia",
       "name": "Dramavia",
       "icon": "icons/dramavia.webp",
@@ -368,7 +385,7 @@
         "dev": "1.0.1+26091301",
         "prod": "1.0.1+26091301"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.panelo",
+      "store": "",
       "category": "movie",
       "category_source": "store"
     },
