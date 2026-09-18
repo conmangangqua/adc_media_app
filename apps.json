@@ -18,8 +18,8 @@
         "aab": "1.0.0+26082001"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.aegicall",
-      "category": null,
-      "category_source": null
+      "category": "caller",
+      "category_source": "store"
     },
     {
       "id": "aiko_chat",
@@ -60,8 +60,8 @@
         "aab": "1.0.4+26090201"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.bloom.drama",
-      "category": null,
-      "category_source": null
+      "category": "movie",
+      "category_source": "store"
     },
     {
       "id": "callvibe",
@@ -102,8 +102,8 @@
         "aab": "1.0.1+26090402"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.dramavia",
-      "category": null,
-      "category_source": null
+      "category": "movie",
+      "category_source": "store"
     },
     {
       "id": "dreamatic",
@@ -142,8 +142,8 @@
         "aab": "1.0.6+26082101"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.ember.drama",
-      "category": null,
-      "category_source": null
+      "category": "movie",
+      "category_source": "store"
     },
     {
       "id": "fpspeak",
@@ -161,8 +161,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "booster",
+      "category_source": "store"
     },
     {
       "id": "gpsage",
@@ -182,8 +182,8 @@
         "aab": "1.0.0+26091301"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "gps",
+      "category_source": "store"
     },
     {
       "id": "jade_browser",
@@ -240,13 +240,13 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/klarvo.aab"
       },
       "versions": {
-        "dev": "1.0.0+2",
+        "dev": "1.0.1+3",
         "prod": "1.0.0+2",
         "aab": "1.0.0+2"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.klarvo",
-      "category": null,
-      "category_source": null
+      "category": "iptv",
+      "category_source": "store"
     },
     {
       "id": "klipnest",
@@ -266,8 +266,8 @@
         "aab": "1.0.0+26083001"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.klipnest",
-      "category": null,
-      "category_source": null
+      "category": "downloader",
+      "category_source": "store"
     },
     {
       "id": "liora_chat",
@@ -287,8 +287,8 @@
         "aab": "1.0.0+26090301"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "ai-chat",
+      "category_source": "store"
     },
     {
       "id": "lorevia",
@@ -308,8 +308,8 @@
         "aab": "1.0.1+26090402"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.lorevia",
-      "category": null,
-      "category_source": null
+      "category": "movie",
+      "category_source": "store"
     },
     {
       "id": "lumo_browser",
@@ -329,8 +329,8 @@
         "aab": "1.0.0+26082002"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.lumo.browser",
-      "category": null,
-      "category_source": null
+      "category": "browser",
+      "category_source": "store"
     },
     {
       "id": "miravel_chat",
@@ -350,8 +350,8 @@
         "aab": "1.0.0+26090301"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "ai-chat",
+      "category_source": "store"
     },
     {
       "id": "panelo",
@@ -368,9 +368,9 @@
         "dev": "1.0.1+26091301",
         "prod": "1.0.1+26091301"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.panelo",
-      "category": null,
-      "category_source": null
+      "store": "",
+      "category": "movie",
+      "category_source": "store"
     },
     {
       "id": "rbxmint",
@@ -388,8 +388,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "tools",
+      "category_source": "store"
     },
     {
       "id": "reverie_drama",
@@ -430,8 +430,8 @@
         "aab": "1.0.1+26091301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.ringwise",
-      "category": null,
-      "category_source": null
+      "category": "caller",
+      "category_source": "store"
     },
     {
       "id": "roseix_browser",
@@ -451,8 +451,8 @@
         "aab": "1.0.0+2"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.roseix.browser",
-      "category": null,
-      "category_source": null
+      "category": "browser",
+      "category_source": "store"
     },
     {
       "id": "sablio",
@@ -472,8 +472,8 @@
         "aab": "1.0.0+26082401"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.sablio",
-      "category": null,
-      "category_source": null
+      "category": "movie",
+      "category_source": "store"
     },
     {
       "id": "sentrik",
@@ -493,8 +493,8 @@
         "aab": "1.0.0+26082002"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.sentrik",
-      "category": null,
-      "category_source": null
+      "category": "caller",
+      "category_source": "store"
     },
     {
       "id": "sirenya",
@@ -514,8 +514,8 @@
         "aab": "1.0.0+26082201"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.sirenya",
-      "category": null,
-      "category_source": null
+      "category": "movie",
+      "category_source": "store"
     },
     {
       "id": "skylark_tv",
@@ -535,8 +535,8 @@
         "aab": "1.0.5+26082101"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.skylarktv",
-      "category": null,
-      "category_source": null
+      "category": "iptv",
+      "category_source": "store"
     },
     {
       "id": "snap_saver",
@@ -575,8 +575,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "movie",
+      "category_source": "store"
     },
     {
       "id": "stashvid",
@@ -596,8 +596,8 @@
         "aab": "1.0.0+26082301"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "downloader",
+      "category_source": "store"
     },
     {
       "id": "streamly_play",
@@ -617,8 +617,8 @@
         "aab": "1.0.3+26082103"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.streamlyplay",
-      "category": null,
-      "category_source": null
+      "category": "iptv",
+      "category_source": "store"
     },
     {
       "id": "turbovid",
@@ -659,8 +659,8 @@
         "aab": "1.0.0+26082102"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.vantis.browser",
-      "category": null,
-      "category_source": null
+      "category": "browser",
+      "category_source": "store"
     },
     {
       "id": "zephlix",
@@ -680,8 +680,8 @@
         "aab": "1.0.0+2"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.zephlix",
-      "category": null,
-      "category_source": null
+      "category": "iptv",
+      "category_source": "store"
     }
   ]
 }
