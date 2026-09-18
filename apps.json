@@ -100,8 +100,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "iptv",
+      "category_source": "store"
     },
     {
       "id": "dramavia",
@@ -448,7 +448,7 @@
         "prod": "1.0.1+26091301",
         "aab": "1.0.1+26091301"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.ringwise",
+      "store": "",
       "category": "caller",
       "category_source": "store"
     },
