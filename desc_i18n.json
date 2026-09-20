@@ -15,6 +15,10 @@
   "en": "Caller ID & spam blocker to screen unknown numbers and silence robocalls.",
   "vi": "ID người gọi & trình chặn thư rác để sàng lọc các số chưa biết và tắt tiếng các cuộc gọi tự động."
  },
+ "castkoi": {
+  "en": "Play your IPTV playlists (M3U, Xtream) with full EPG and Chromecast support",
+  "vi": "Phát danh sách phát IPTV của bạn (M3U, Xtream) với hỗ trợ EPG và Chromecast đầy đủ"
+ },
  "dramavia": {
   "en": "Short drama, vertical & bite-sized — swipe up to jump to the next episode.",
   "vi": "Kịch ngắn, dọc và vừa vặn — vuốt lên để chuyển sang tập tiếp theo."
@@ -106,6 +110,10 @@
  "snap_saver": {
   "en": "Video downloader to save clips & stories to your gallery, fast and offline.",
   "vi": "Trình tải xuống video để lưu clip và câu chuyện vào thư viện của bạn, nhanh chóng và ngoại tuyến."
+ },
+ "sonnetta": {
+  "en": "Vertical short dramas that read like love poems — one episode at a time.",
+  "vi": "Những bộ phim truyền hình ngắn theo chiều dọc đọc như những bài thơ tình - mỗi tập một tập."
  },
  "stashvid": {
   "en": "Paste a link, save videos, music, photos & files offline in one tap.",
