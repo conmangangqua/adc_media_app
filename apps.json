@@ -613,7 +613,6 @@
       },
       "versions": {
         "dev": "1.0.0+26091401",
-        "prod": "1.0.0+26091401",
         "aab": "1.0.0+26082301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.stashvid",
