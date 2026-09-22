@@ -116,7 +116,7 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/dramavia.aab"
       },
       "versions": {
-        "dev": "1.0.2+26092001",
+        "dev": "1.0.2+26092201",
         "prod": "1.0.2+26092001",
         "aab": "1.0.1+26090402"
       },
@@ -132,7 +132,6 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/dreamatic_dev.apk",
         "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/dreamatic_prod.apk"
       },
       "versions": {
