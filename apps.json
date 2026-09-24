@@ -179,7 +179,7 @@
         "dev": "1.0.0+1",
         "prod": "1.0.0+1"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.fpspeak",
+      "store": "",
       "category": "booster",
       "category_source": "store"
     },
