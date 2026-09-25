@@ -108,7 +108,7 @@
     {
       "id": "dramavia",
       "name": "Dramavia",
-      "icon": "icons/dramavia.webp",
+      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/dramavia_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -207,6 +207,23 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquilpartner.gpsage",
       "category": "Maps & Navigation",
       "category_source": "store"
+    },
+    {
+      "id": "heartisode",
+      "name": "Heartisode",
+      "icon": "icons/heartisode.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/heartisode_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null
     },
     {
       "id": "jade_browser",

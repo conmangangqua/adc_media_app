@@ -134,5 +134,9 @@
   "castkoi": {
     "sha": "7fed0bd374d64e2fcb9199e4bbb49e2ce21fedf369dedefa2ed47e9e35da66e7",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/castkoi_icon.png"
+  },
+  "heartisode": {
+    "sha": "b7b1922465e00fa99dcb3ce737b368a580bbdf8188d759ba4961ee5a437756a3",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/heartisode_icon.png"
   }
 }
