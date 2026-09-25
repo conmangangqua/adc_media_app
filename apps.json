@@ -594,12 +594,10 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/sonnetta_dev.apk",
-        "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/sonnetta.aab"
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/sonnetta_dev.apk"
       },
       "versions": {
-        "dev": "1.0.0+26092501",
-        "aab": "1.0.0+26092501"
+        "dev": "1.0.0+26092501"
       },
       "store": "",
       "category": "Entertainment",
