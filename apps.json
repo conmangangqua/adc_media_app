@@ -108,7 +108,7 @@
     {
       "id": "dramavia",
       "name": "Dramavia",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/dramavia_icon.png",
+      "icon": "icons/dramavia.webp",
       "platform": "Android",
       "description": "",
       "features": [],
