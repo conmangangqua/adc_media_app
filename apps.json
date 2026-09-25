@@ -98,7 +98,8 @@
       },
       "versions": {
         "dev": "1.0.0+26092501",
-        "prod": "1.0.0+26092501"
+        "prod": "1.0.0+26092501",
+        "aab": "1.0.0+26092501"
       },
       "store": "",
       "category": "Streaming",
@@ -584,27 +585,6 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.snapsaver",
       "category": "Tools",
       "category_source": "store"
-    },
-    {
-      "id": "sonnetta",
-      "name": "Sonnetta",
-      "icon": "icons/sonnetta.webp",
-      "platform": "Android",
-      "description": "",
-      "features": [],
-      "downloads": {
-        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/sonnetta_dev.apk",
-        "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/sonnetta_prod.apk",
-        "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/sonnetta.aab"
-      },
-      "versions": {
-        "dev": "1.0.0+26092501",
-        "prod": "1.0.0+26092501",
-        "aab": "1.0.0+26092501"
-      },
-      "store": "",
-      "category": "Entertainment",
-      "category_source": "gitlab"
     },
     {
       "id": "stashvid",
