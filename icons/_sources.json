@@ -138,5 +138,9 @@
   "heartisode": {
     "sha": "b7b1922465e00fa99dcb3ce737b368a580bbdf8188d759ba4961ee5a437756a3",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/heartisode_icon.png"
+  },
+  "starlume": {
+    "sha": "ca7b95a961a44c891a2cdc3e0026a1f57c369d54ac775344ee4ecb42b7e476bc",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/starlume_icon.png"
   }
 }
