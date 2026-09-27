@@ -45,7 +45,7 @@
     {
       "id": "bloom_drama",
       "name": "Bloom Drama",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/bloom_drama_icon.png",
+      "icon": "icons/bloom_drama.webp",
       "platform": "Android",
       "description": "",
       "features": [],
