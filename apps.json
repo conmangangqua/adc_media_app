@@ -469,11 +469,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/pixarel_dev.apk",
-        "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/pixarel_prod.apk"
+        "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/pixarel_prod.apk",
+        "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/pixarel.aab"
       },
       "versions": {
         "dev": "1.0.0+26092801",
-        "prod": "1.0.0+26092801"
+        "prod": "1.0.0+26092801",
+        "aab": "1.0.0+26092802"
       },
       "store": "",
       "category": "Photography",
@@ -802,12 +804,11 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/vowtale_dev.apk",
         "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/vowtale_prod.apk",
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/vowtale.aab"
       },
       "versions": {
-        "dev": "1.0.0+1",
+        "dev": "1.0.0+26092802",
         "prod": "1.0.0+1",
         "aab": "1.0.0+26092801"
       },
