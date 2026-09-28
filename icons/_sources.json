@@ -154,5 +154,9 @@
   "vowtale": {
     "sha": "1689b8478957b838023b89a6212bec7d32216d198fe5ecf6ebffcf2b02ee4869",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/vowtale_icon.png"
+  },
+  "pixarel": {
+    "sha": "cc2bf1ce22c925a22a3595e1ad79c1b55dd8945d4e067a5fbfe7780b845d1797",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/pixarel_icon.png"
   }
 }
