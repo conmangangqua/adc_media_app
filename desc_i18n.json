@@ -19,6 +19,10 @@
   "en": "Play your IPTV playlists (M3U, Xtream) with full EPG and Chromecast support",
   "vi": "Phát danh sách phát IPTV của bạn (M3U, Xtream) với hỗ trợ EPG và Chromecast đầy đủ"
  },
+ "chargybara": {
+  "en": "Cozy capybara battery icons, a warm status bar, stickers and screen pets.",
+  "vi": "Biểu tượng pin capybara ấm cúng, thanh trạng thái ấm áp, nhãn dán và màn hình thú cưng."
+ },
  "dramavia": {
   "en": "Short drama, vertical & bite-sized — swipe up to jump to the next episode.",
   "vi": "Kịch ngắn, dọc và vừa vặn — vuốt lên để chuyển sang tập tiếp theo."
@@ -59,6 +63,10 @@
   "en": "Save videos, music & photos from any site. Watch offline — no account needed.",
   "vi": "Lưu video, nhạc và ảnh từ bất kỳ trang web nào. Xem ngoại tuyến - không cần tài khoản."
  },
+ "lanternia": {
+  "en": "Short drama series that glow nightly — swipe a whole story in minutes.",
+  "vi": "Loạt phim truyền hình ngắn tỏa sáng hàng đêm - xem toàn bộ câu chuyện trong vài phút."
+ },
  "liora_chat": {
   "en": "AI companion chat — talk, share & bond with a caring AI friend anytime.",
   "vi": "Trò chuyện đồng hành với AI - trò chuyện, chia sẻ và gắn kết với một người bạn AI quan tâm bất cứ lúc nào."
@@ -78,6 +86,10 @@
  "panelo": {
   "en": "Vertical short dramas: romance, mafia, billionaire & werewolf episodes.",
   "vi": "Phim truyền hình ngắn theo chiều dọc: các tập lãng mạn, mafia, tỷ phú và người sói."
+ },
+ "pixarel": {
+  "en": "Turn photos and text prompts into AI art, with a built-in photo editor",
+  "vi": "Biến ảnh và lời nhắc văn bản thành tác phẩm nghệ thuật AI với trình chỉnh sửa ảnh tích hợp"
  },
  "rbxmint": {
   "en": "RBX calculator plus quiz, spin wheel & scratch cards for in-app virtual rewards",
@@ -138,6 +150,10 @@
  "vantis_browser": {
   "en": "Private browser & ad blocker: cut pop-ups and trackers, load pages faster.",
   "vi": "Trình duyệt riêng tư & trình chặn quảng cáo: cắt cửa sổ bật lên và trình theo dõi, tải trang nhanh hơn."
+ },
+ "vowtale": {
+  "en": "Vertical short dramas of vows, secrets and second chances — 2 min each.",
+  "vi": "Phim truyền hình ngắn theo chiều dọc về lời thề, bí mật và cơ hội thứ hai - mỗi phim 2 phút."
  },
  "zephlix": {
   "en": "IPTV player for your M3U & Xtream playlists: live TV, movies & EPG guide",
