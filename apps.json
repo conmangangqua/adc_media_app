@@ -118,13 +118,13 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/chargybara.aab"
       },
       "versions": {
-        "dev": "1.0.0+26092801",
+        "dev": "1.0.0+26092901",
         "prod": "1.0.0+26092801",
         "aab": "1.0.0+26092901"
       },
       "store": "",
       "category": "Personalization",
-      "category_source": "gitlab"
+      "category_source": "desc"
     },
     {
       "id": "dramavia",
