@@ -17,9 +17,9 @@
         "prod": "1.0.0+26082001",
         "aab": "1.0.0+26082001"
       },
-      "store": "",
-      "category": "Communication",
-      "category_source": "store"
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.aegicall",
+      "category": "Caller ID",
+      "category_source": "gitlab"
     },
     {
       "id": "aiko_chat",
@@ -119,7 +119,7 @@
       },
       "versions": {
         "dev": "1.0.0+26093001",
-        "prod": "1.0.0+26092901",
+        "prod": "1.0.0+26093001",
         "aab": "1.0.0+26093001"
       },
       "store": "",
@@ -540,9 +540,9 @@
         "prod": "1.0.1+26091301",
         "aab": "1.0.1+26091301"
       },
-      "store": "",
-      "category": "Communication",
-      "category_source": "store"
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.ringwise",
+      "category": "Caller ID",
+      "category_source": "gitlab"
     },
     {
       "id": "roseix_browser",
