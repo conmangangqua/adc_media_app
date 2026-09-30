@@ -87,7 +87,7 @@
     {
       "id": "castkoi",
       "name": "Castkoi",
-      "icon": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/castkoi_icon.png",
+      "icon": "icons/castkoi.webp",
       "platform": "Android",
       "description": "",
       "features": [],
