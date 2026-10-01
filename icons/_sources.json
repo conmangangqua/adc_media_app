@@ -158,5 +158,9 @@
   "pixarel": {
     "sha": "cc2bf1ce22c925a22a3595e1ad79c1b55dd8945d4e067a5fbfe7780b845d1797",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/pixarel_icon.png"
+  },
+  "luxvolt": {
+    "sha": "dd8a8e8e4d649bf276a8d95f8d939ca14e2cbf7fdaa31f92595d19372665fb8a",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/luxvolt_icon.png"
   }
 }
