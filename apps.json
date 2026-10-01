@@ -434,8 +434,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": "tools",
-      "category_source": "gitlab"
+      "category": "Tools",
+      "category_source": "desc"
     },
     {
       "id": "miravel_chat",
