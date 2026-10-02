@@ -102,8 +102,8 @@
         "aab": "1.0.0+26092501"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.castkoi",
-      "category": "Streaming",
-      "category_source": "gitlab"
+      "category": "Video Players",
+      "category_source": "store"
     },
     {
       "id": "chargybara",
@@ -123,8 +123,8 @@
         "aab": "1.0.0+26093001"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.chargybara",
-      "category": "Personalization",
-      "category_source": "desc"
+      "category": "Entertainment",
+      "category_source": "store"
     },
     {
       "id": "dramavia",
@@ -205,8 +205,8 @@
         "aab": "1.0.0+26092401"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.fpspeak",
-      "category": "Cleaner & Booster",
-      "category_source": "gitlab"
+      "category": "Tools",
+      "category_source": "store"
     },
     {
       "id": "gpsage",
@@ -248,7 +248,7 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.heartisode",
       "category": "Entertainment",
-      "category_source": "gitlab"
+      "category_source": "store"
     },
     {
       "id": "jade_browser",
@@ -353,7 +353,7 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.lanternia",
       "category": "Entertainment",
-      "category_source": "gitlab"
+      "category_source": "store"
     },
     {
       "id": "liora_chat",
@@ -519,7 +519,7 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.rbxmint",
       "category": "Entertainment",
-      "category_source": "desc"
+      "category_source": "store"
     },
     {
       "id": "reverie_drama",
@@ -708,7 +708,7 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.sonnetta",
       "category": "Entertainment",
-      "category_source": "gitlab"
+      "category_source": "store"
     },
     {
       "id": "starlume",
@@ -729,7 +729,7 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.starlume",
       "category": "Entertainment",
-      "category_source": "gitlab"
+      "category_source": "store"
     },
     {
       "id": "stashvid",
@@ -834,7 +834,7 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.vowtale",
       "category": "Entertainment",
-      "category_source": "gitlab"
+      "category_source": "store"
     },
     {
       "id": "zephlix",
