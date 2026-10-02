@@ -101,7 +101,7 @@
         "prod": "1.0.0+26092501",
         "aab": "1.0.0+26092501"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.castkoi",
       "category": "Streaming",
       "category_source": "gitlab"
     },
@@ -122,7 +122,7 @@
         "prod": "1.0.0+26093001",
         "aab": "1.0.0+26093001"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.chargybara",
       "category": "Personalization",
       "category_source": "desc"
     },
@@ -204,7 +204,7 @@
         "prod": "1.0.0+1",
         "aab": "1.0.0+26092401"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.fpspeak",
       "category": "Cleaner & Booster",
       "category_source": "gitlab"
     },
@@ -246,7 +246,7 @@
         "prod": "1.0.0+26092802",
         "aab": "1.0.0+26092802"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.heartisode",
       "category": "Entertainment",
       "category_source": "gitlab"
     },
@@ -351,7 +351,7 @@
         "prod": "1.0.0+26092802",
         "aab": "1.0.0+26092802"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.lanternia",
       "category": "Entertainment",
       "category_source": "gitlab"
     },
@@ -706,7 +706,7 @@
         "prod": "1.0.0+26092502",
         "aab": "1.0.0+26092502"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.sonnetta",
       "category": "Entertainment",
       "category_source": "gitlab"
     },
@@ -727,7 +727,7 @@
         "prod": "1.0.0+26092802",
         "aab": "1.0.0+26092802"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.starlume",
       "category": "Entertainment",
       "category_source": "gitlab"
     },
@@ -832,7 +832,7 @@
         "prod": "1.0.0+26092802",
         "aab": "1.0.0+26092803"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.vowtale",
       "category": "Entertainment",
       "category_source": "gitlab"
     },
