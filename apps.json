@@ -427,11 +427,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/luxvolt_dev.apk",
-        "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/luxvolt_prod.apk"
+        "prod": "https://github.com/conmangangqua/adc_media_app/releases/download/prod/luxvolt_prod.apk",
+        "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/luxvolt.aab"
       },
       "versions": {
         "dev": "1.0.0+1",
-        "prod": "1.0.0+1"
+        "prod": "1.0.0+1",
+        "aab": "1.0.0+26100501"
       },
       "store": "",
       "category": "Tools",
