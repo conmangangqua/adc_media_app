@@ -498,7 +498,7 @@
         "prod": "1.0.0+26092803",
         "aab": "1.0.0+26092803"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.pixarel",
       "category": "Photography",
       "category_source": "gitlab"
     },
