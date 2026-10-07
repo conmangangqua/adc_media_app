@@ -454,7 +454,7 @@
         "prod": "1.0.0+1",
         "aab": "1.0.0+26100501"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.luxvolt",
       "category": "Tools",
       "category_source": "desc"
     },
