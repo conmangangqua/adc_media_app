@@ -456,7 +456,7 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.luxvolt",
       "category": "Tools",
-      "category_source": "desc"
+      "category_source": "store"
     },
     {
       "id": "miravel_chat",
