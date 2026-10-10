@@ -143,7 +143,7 @@
         "prod": "1.0.2+26092201",
         "aab": "1.0.1+26090402"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.dramavia",
+      "store": "",
       "category": "Streaming",
       "category_source": "rule"
     },
@@ -162,7 +162,7 @@
         "dev": "1.0.3+26092201",
         "prod": "1.0.3+26092201"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.dreamatic",
+      "store": "",
       "category": "Entertainment",
       "category_source": "store"
     },
@@ -414,7 +414,7 @@
         "prod": "1.0.0+1",
         "aab": "1.0.0+26082002"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.lumo.browser",
+      "store": "",
       "category": "Browser",
       "category_source": "rule"
     },
@@ -540,7 +540,7 @@
         "prod": "1.0.7+26090801",
         "aab": "1.0.7+26090801"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.reverie.drama",
+      "store": "",
       "category": "Streaming",
       "category_source": "rule"
     },
@@ -561,7 +561,7 @@
         "prod": "1.0.2+26100501",
         "aab": "1.0.1+26091301"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.ringwise",
+      "store": "",
       "category": "Communication",
       "category_source": "store"
     },
