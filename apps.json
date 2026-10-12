@@ -431,7 +431,7 @@
         "aab": "https://github.com/conmangangqua/adc_media_app/releases/download/aab/luxvolt.aab"
       },
       "versions": {
-        "dev": "1.0.0+1",
+        "dev": "1.0.1+26101001",
         "prod": "1.0.0+1",
         "aab": "1.0.0+26100501"
       },
