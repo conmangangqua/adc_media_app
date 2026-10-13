@@ -246,7 +246,7 @@
         "prod": "1.0.0+26092802",
         "aab": "1.0.0+26092802"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.heartisode",
+      "store": "",
       "category": "Entertainment",
       "category_source": "store"
     },
@@ -540,7 +540,7 @@
         "prod": "1.0.7+26090801",
         "aab": "1.0.7+26090801"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.reverie.drama",
+      "store": "",
       "category": "Streaming",
       "category_source": "rule"
     },
