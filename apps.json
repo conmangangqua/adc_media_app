@@ -17,7 +17,7 @@
         "prod": "1.0.1+26101301",
         "aab": "1.0.0+26082001"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.aegicall",
+      "store": "",
       "category": "Communication",
       "category_source": "store"
     },
@@ -143,7 +143,7 @@
         "prod": "1.0.2+26092201",
         "aab": "1.0.1+26090402"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.dramavia",
+      "store": "",
       "category": "Streaming",
       "category_source": "rule"
     },
@@ -162,7 +162,7 @@
         "dev": "1.0.3+26092201",
         "prod": "1.0.3+26092201"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.dreamatic",
+      "store": "",
       "category": "Entertainment",
       "category_source": "store"
     },
@@ -183,7 +183,7 @@
         "prod": "1.0.10+26092301",
         "aab": "1.0.6+26082101"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.ember.drama",
+      "store": "",
       "category": "Streaming",
       "category_source": "rule"
     },
@@ -267,7 +267,7 @@
         "prod": "1.0.7+26082002",
         "aab": "1.0.8+26082403"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.jade.browser",
+      "store": "",
       "category": "Browser",
       "category_source": "rule"
     },
@@ -414,7 +414,7 @@
         "prod": "1.0.0+1",
         "aab": "1.0.0+26082002"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.lumo.browser",
+      "store": "",
       "category": "Browser",
       "category_source": "rule"
     },
@@ -477,7 +477,7 @@
         "prod": "1.0.1+26091301",
         "aab": "1.0.1+26092101"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.panelo",
+      "store": "",
       "category": "Entertainment",
       "category_source": "store"
     },
@@ -540,7 +540,7 @@
         "prod": "1.0.7+26090801",
         "aab": "1.0.7+26090801"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.reverie.drama",
+      "store": "",
       "category": "Streaming",
       "category_source": "rule"
     },
@@ -561,7 +561,7 @@
         "prod": "1.0.2+26101001",
         "aab": "1.0.1+26091301"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.ringwise",
+      "store": "",
       "category": "Communication",
       "category_source": "store"
     },
@@ -771,7 +771,7 @@
         "prod": "1.0.1+26081301",
         "aab": "1.0.3+26082103"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.streamlyplay",
+      "store": "",
       "category": "Video Players",
       "category_source": "store"
     },
@@ -792,7 +792,7 @@
         "prod": "1.0.9+26082001",
         "aab": "1.0.9+26082001"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tmt.video.downloader",
+      "store": "",
       "category": "Downloader",
       "category_source": "rule"
     },
@@ -855,7 +855,7 @@
         "prod": "1.0.3+26092501",
         "aab": "1.0.2+26092501"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.zephlix",
+      "store": "",
       "category": "Video Players",
       "category_source": "store"
     }
