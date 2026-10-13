@@ -248,7 +248,7 @@
       },
       "store": "",
       "category": "Entertainment",
-      "category_source": "store"
+      "category_source": "gitlab"
     },
     {
       "id": "jade_browser",
