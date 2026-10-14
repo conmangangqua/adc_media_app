@@ -540,7 +540,7 @@
         "prod": "1.0.7+26090801",
         "aab": "1.0.7+26090801"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.reverie.drama",
       "category": "Streaming",
       "category_source": "rule"
     },
@@ -561,7 +561,7 @@
         "prod": "1.0.2+26101001",
         "aab": "1.0.1+26091301"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.ringwise",
       "category": "Communication",
       "category_source": "store"
     },
