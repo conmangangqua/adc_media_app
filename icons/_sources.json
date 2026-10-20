@@ -170,5 +170,9 @@
   "keyhola": {
     "sha": "8bd999839f11fa83456a1a6fc7b04df5fa595f676e5a4677b4bab336c5e9f7b4",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/keyhola_icon.png"
+  },
+  "dramzine": {
+    "sha": "2d12879a8f89d02822a04141a04a95299e28e31049a444f381d1694a30ad67de",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/dramzine_icon.png"
   }
 }
