@@ -174,5 +174,9 @@
   "dramzine": {
     "sha": "2d12879a8f89d02822a04141a04a95299e28e31049a444f381d1694a30ad67de",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/dramzine_icon.png"
+  },
+  "sprigella": {
+    "sha": "fd314d30b957e697e34458118738d3ce1f27d9e721ed1e126cb0478f5472d2c8",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/sprigella_icon.png"
   }
 }

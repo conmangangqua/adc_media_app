@@ -143,7 +143,7 @@
         "prod": "1.0.2+26092201",
         "aab": "1.0.1+26090402"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.dramavia",
+      "store": "",
       "category": "Streaming",
       "category_source": "rule"
     },
@@ -749,6 +749,23 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.sonnetta",
       "category": "Entertainment",
       "category_source": "store"
+    },
+    {
+      "id": "sprigella",
+      "name": "Sprigella",
+      "icon": "icons/sprigella.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/sprigella_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "Entertainment",
+      "category_source": "gitlab"
     },
     {
       "id": "starlume",
