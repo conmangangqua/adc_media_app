@@ -181,7 +181,7 @@
         "dev": "1.0.3+26092201",
         "prod": "1.0.3+26092201"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.dreamatic",
       "category": "Entertainment",
       "category_source": "store"
     },
@@ -452,7 +452,7 @@
         "prod": "1.0.0+1",
         "aab": "1.0.0+26082002"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.lumo.browser",
       "category": "Browser",
       "category_source": "rule"
     },
@@ -534,7 +534,7 @@
         "prod": "1.0.3+26092801",
         "aab": "1.0.1+26092101"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.panelo",
       "category": "Entertainment",
       "category_source": "store"
     },

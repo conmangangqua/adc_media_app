@@ -1,6 +1,12 @@
 {
   "aegicall": "android:com.tranquilmind.aegicall",
   "dramavia": "android:com.tranquiltmt.dramavia",
+  "dramzine": "android:com.tranquiltmt.dramzine",
+  "dreamatic": "android:com.tranquiltmt.dreamatic",
   "ember_drama": "android:com.tranquiltmt.ember.drama",
-  "jade_browser": "android:com.tranquiltmt.jade.browser"
+  "jade_browser": "android:com.tranquiltmt.jade.browser",
+  "keyhola": "android:com.tranquiltmt.keyhola",
+  "lumo_browser": "android:com.tranquiltmt.lumo.browser",
+  "matchelle": "android:com.tranquiltmt.matchelle",
+  "panelo": "android:com.tranquiltmt.panelo"
 }
