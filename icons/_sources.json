@@ -178,5 +178,9 @@
   "sprigella": {
     "sha": "fd314d30b957e697e34458118738d3ce1f27d9e721ed1e126cb0478f5472d2c8",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/sprigella_icon.png"
+  },
+  "matchelle": {
+    "sha": "2fba55a0f851145226af6da1b9b187bdbc1d664dd24af177c1e590aa3cdb247b",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/matchelle_icon.png"
   }
 }
