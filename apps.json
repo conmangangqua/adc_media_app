@@ -202,7 +202,7 @@
         "prod": "1.0.10+26092301",
         "aab": "1.0.6+26082101"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.ember.drama",
+      "store": "",
       "category": "Streaming",
       "category_source": "rule"
     },
@@ -286,7 +286,7 @@
         "prod": "1.0.7+26082002",
         "aab": "1.0.8+26082403"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.jade.browser",
+      "store": "",
       "category": "Browser",
       "category_source": "rule"
     },
