@@ -14,5 +14,6 @@
   "ringwise": "android:com.tranquilmind.ringwise",
   "sprigella": "android:com.tranquiltmt.sprigella",
   "streamly_play": "android:com.tranquiltmt.streamlyplay",
-  "turbovid": "android:com.tmt.video.downloader"
+  "turbovid": "android:com.tmt.video.downloader",
+  "zephlix": "android:com.tranquiltmt.zephlix"
 }
