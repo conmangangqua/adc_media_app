@@ -182,5 +182,9 @@
   "matchelle": {
     "sha": "2fba55a0f851145226af6da1b9b187bdbc1d664dd24af177c1e590aa3cdb247b",
     "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/matchelle_icon.png"
+  },
+  "reelstub": {
+    "sha": "b1fb7fdba27c26f5dae2dc702086f336fbb255648d1151006f3e6c3066a89eec",
+    "src": "https://github.com/conmangangqua/adc_media_app/releases/download/dev/reelstub_icon.png"
   }
 }
